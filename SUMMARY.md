@@ -22,6 +22,10 @@
 
 * [广告 Agent 参考架构](docs/20-research/ad-agent-reference-architecture.md)
 
+## 多广告平台适配
+
+* [多广告平台 API 适配地图](docs/20-research/ad-platform-api-adapter-map.md)
+
 ## 素材创建、投放、优化工作流
 
 * [端到端工作流](docs/10-projects/taidong-ad-agent/creative-launch-optimization-workflow.md)
