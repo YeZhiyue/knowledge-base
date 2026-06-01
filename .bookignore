@@ -1,0 +1,15 @@
+.git/
+.github/
+.bookignore
+_book/
+node_modules/
+output/
+private/
+scripts/
+.DS_Store
+.gitbook.yaml
+.gitignore
+AGENTS.md
+book.json
+package.json
+package-lock.json

@@ -1,0 +1,13 @@
+{
+  "name": "knowledge-base-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "钛动科技 GEO / SEM 广告 Agent 知识库文档站",
+  "scripts": {
+    "docs:build": "honkit build . _book",
+    "docs:serve": "honkit serve . _book"
+  },
+  "devDependencies": {
+    "honkit": "^6.2.1"
+  }
+}
