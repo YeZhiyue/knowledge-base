@@ -33,6 +33,7 @@
 ## 风控、审计与评测
 
 * [风控、审计与评测](docs/20-research/risk-audit-evaluation.md)
+* [广告 Agent 评测样例库](docs/20-research/ad-agent-evaluation-sample-library.md)
 
 ## 入职前学习计划
 
